@@ -35,7 +35,7 @@ Erik Evangelista is an engineer at heart. He is a cloud enthusiast, DevOps pro, 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.erikevangelista.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.erikevangelista.com-blue?style=flat&logo=google-chrome"></a>
+<a href="http://www.erikevangelista.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.erikevangelista.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/erikevangelista/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@erikevangelista-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/erikevangelista" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/erikevangelista?style=social"></a>
 <a href="mailto:erikevangelista@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-erikevangelista@yahoo.com-blue?style=flat&logo=gmail"></a>
